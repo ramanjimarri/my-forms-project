@@ -1,0 +1,4 @@
+mountpoints:
+  /: https://author-p12345-e67890.adobeaemcloud.com/bin/franklin.delivery/ramanjimarri/my-forms-project/main
+  type:"markup"
+  suffix:".html"             
